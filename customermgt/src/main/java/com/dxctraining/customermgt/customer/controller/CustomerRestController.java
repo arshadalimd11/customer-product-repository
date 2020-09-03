@@ -29,7 +29,7 @@ public class CustomerRestController {
 
 	@PostMapping("/add")
 	@ResponseStatus(HttpStatus.CREATED)
-	public CustomerDto create(@RequestBody CreateCustomerRequest requestData) {
+	public CustomerDto addCustomer(@RequestBody CreateCustomerRequest requestData) {
 		Customer customer=new Customer();
 		customer.setName(requestData.getName());
 		customer = customerService.save(customer);
@@ -39,7 +39,7 @@ public class CustomerRestController {
 
 	@GetMapping("/get/{id}")
 	@ResponseStatus(HttpStatus.OK)
-	public CustomerDto getCustomer(@PathVariable("id") Integer id) {
+	public CustomerDto getCustomerById(@PathVariable("id") Integer id) {
 		Customer customer = customerService.findById(id);
 		CustomerDto response = util.customerDto(customer);
 		return response;
