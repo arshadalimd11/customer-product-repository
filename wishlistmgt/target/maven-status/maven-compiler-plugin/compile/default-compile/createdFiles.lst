@@ -1,0 +1,14 @@
+com\dxctraining\wishlistmgt\wishlist\dto\WishedItemDto.class
+com\dxctraining\wishlistmgt\wishlist\service\WishlistServiceImpl.class
+com\dxctraining\wishlistmgt\wishlist\service\IWishlistService.class
+com\dxctraining\wishlistmgt\wishlist\util\WishlistUtil.class
+com\dxctraining\wishlistmgt\wishlist\dto\CreateWishedItemRequest.class
+com\dxctraining\wishlistmgt\wishlist\entities\WishedItem.class
+com\dxctraining\wishlistmgt\wishlist\dao\IWishlistDao.class
+com\dxctraining\wishlistmgt\wishlist\dto\CustomerDto.class
+com\dxctraining\wishlistmgt\wishlist\exceptions\InvalidArgumentException.class
+com\dxctraining\wishlistmgt\wishlist\exceptions\WishedItemNotFoundException.class
+com\dxctraining\wishlistmgt\wishlist\dto\ProductDto.class
+com\dxctraining\wishlistmgt\ProjectApplication.class
+com\dxctraining\wishlistmgt\wishlist\exceptions\CentralizedExceptionHandler.class
+com\dxctraining\wishlistmgt\wishlist\controller\WishedItemRestController.class

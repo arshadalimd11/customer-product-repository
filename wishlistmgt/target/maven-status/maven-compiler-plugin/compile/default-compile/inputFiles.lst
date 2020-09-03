@@ -1,0 +1,14 @@
+C:\Users\tali22\work space\salesmgt\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishlist\service\WishlistServiceImpl.java
+C:\Users\tali22\work space\salesmgt\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishlist\entities\WishedItem.java
+C:\Users\tali22\work space\salesmgt\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishlist\dto\WishedItemDto.java
+C:\Users\tali22\work space\salesmgt\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishlist\exceptions\CentralizedExceptionHandler.java
+C:\Users\tali22\work space\salesmgt\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishlist\util\WishlistUtil.java
+C:\Users\tali22\work space\salesmgt\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\ProjectApplication.java
+C:\Users\tali22\work space\salesmgt\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishlist\dao\IWishlistDao.java
+C:\Users\tali22\work space\salesmgt\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishlist\service\IWishlistService.java
+C:\Users\tali22\work space\salesmgt\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishlist\dto\CustomerDto.java
+C:\Users\tali22\work space\salesmgt\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishlist\dto\ProductDto.java
+C:\Users\tali22\work space\salesmgt\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishlist\controller\WishedItemRestController.java
+C:\Users\tali22\work space\salesmgt\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishlist\exceptions\WishedItemNotFoundException.java
+C:\Users\tali22\work space\salesmgt\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishlist\exceptions\InvalidArgumentException.java
+C:\Users\tali22\work space\salesmgt\wishlistmgt\src\main\java\com\dxctraining\wishlistmgt\wishlist\dto\CreateWishedItemRequest.java
